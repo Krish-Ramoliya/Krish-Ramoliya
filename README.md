@@ -26,5 +26,3 @@ src="https://img.shields.io/github/followers/Krish-Ramoliya?logo=github&style=fo
 <a href="http://www.github.com/Krish-Ramoliya"><img src="https://github-readme-stats.vercel.app/api?username=Krish-Ramoliya&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ef4444&icon_color=64748b&bg_color=000000&hide_border=true&show_icons=true" alt="Krish-Ramoliya's GitHub stats" /></a>
 
 <a href="http://www.github.com/Krish-Ramoliya"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Krish-Ramoliya&stroke=ef4444&background=000000&ring=3382ed&fire=3382ed&currStreakNum=ef4444&currStreakLabel=3382ed&sideNums=ef4444&sideLabels=ef4444&dates=ef4444&hide_border=true" /></a>
-
-<a href="http://www.github.com/Krish-Ramoliya"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Krish-Ramoliya&bg_color=000000&color=ef4444&line=64748b&point=ef4444&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
