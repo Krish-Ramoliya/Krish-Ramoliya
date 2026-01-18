@@ -6,35 +6,21 @@
 
   <line x1="0" y1="112" x2="1200" y2="112" stroke="#00FFF0" stroke-width="2" opacity="0.25"/>
 
-  <!-- Mikasa PNG walking (GitHub SAFE) -->
-  <image
-    x="-120" y="25"
-    width="95" height="95"
-    preserveAspectRatio="xMidYMid meet"
-    href="https://raw.githubusercontent.com/Krish-Ramoliya/Krish-Ramoliya/master/assets/mikasa.png"
-    xlink:href="https://raw.githubusercontent.com/Krish-Ramoliya/Krish-Ramoliya/master/assets/mikasa.png">
-
-    <animate attributeName="x"
-             values="-120;1200"
-             dur="10s"
-             repeatCount="indefinite"
-             calcMode="linear"/>
+  <image x="-120" y="25"
+         width="95" height="95"
+         preserveAspectRatio="xMidYMid meet"
+         href="https://raw.githubusercontent.com/Krish-Ramoliya/Krish-Ramoliya/master/assets/mikasa.png"
+         xlink:href="https://raw.githubusercontent.com/Krish-Ramoliya/Krish-Ramoliya/master/assets/mikasa.png">
+    <animate attributeName="x" values="-120;1200" dur="10s" repeatCount="indefinite" />
   </image>
 
-  <!-- shadow -->
   <ellipse cx="35" cy="115" rx="22" ry="7" fill="#000" opacity="0.25">
-    <animate attributeName="cx"
-             values="-80;1240"
-             dur="10s"
-             repeatCount="indefinite"
-             calcMode="linear"/>
+    <animate attributeName="cx" values="-80;1240" dur="10s" repeatCount="indefinite" />
   </ellipse>
 
-  <text x="20" y="26"
-        fill="#00FFF0"
+  <text x="20" y="26" fill="#00FFF0"
         font-family="Fira Code, monospace"
-        font-size="16"
-        opacity="0.65">
+        font-size="16" opacity="0.65">
     Scout Patrol...
   </text>
 
