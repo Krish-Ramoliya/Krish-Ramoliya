@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="120" viewBox="0 0 1200 120">
+  <rect width="1200" height="120" fill="transparent"/>
+
+  <!-- ground line -->
+  <line x1="0" y1="95" x2="1200" y2="95" stroke="#00FFF0" stroke-width="2" opacity="0.25"/>
+
+  <!-- Mikasa GIF as image -->
+  <image href="https://raw.githubusercontent.com/Krish-Ramoliya/Krish-Ramoliya/main/assets/mikasa.gif"
+         x="0" y="20" width="90" height="90">
+    <animate attributeName="x"
+             values="-100;1200"
+             dur="12s"
+             repeatCount="indefinite"/>
+  </image>
+
+  <!-- shadow -->
+  <ellipse cx="40" cy="98" rx="22" ry="7" fill="#000" opacity="0.25">
+    <animate attributeName="cx"
+             values="-60;1240"
+             dur="12s"
+             repeatCount="indefinite"/>
+  </ellipse>
+
+  <!-- small text -->
+  <text x="20" y="25" fill="#00FFF0" font-family="Fira Code, monospace" font-size="16" opacity="0.65">
+    Scout Patrol...
+  </text>
+</svg>
