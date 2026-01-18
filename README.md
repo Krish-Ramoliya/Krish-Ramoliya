@@ -1,28 +1,203 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Krish Ramoliya
-======================================================================================================================================
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=230&section=header&text=Krish%20Ramoliya&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=35" width="100%"/>
+</div>
 
-* 🌍  I'm based in India
-* ✉️  You can contact me at [krishramoliya434@gmail.com](mailto:krishramoliya434@gmail.com)
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2600&pause=900&color=3FEFEF&center=true&vCenter=true&repeat=true&width=1150&lines=AI+%26+Machine+Learning+%F0%9F%A4%96;Deep+Learning+%7C+Computer+Vision+%7C+NLP;IoT+Developer+%7C+Cloud+Enthusiast+%E2%98%81%EF%B8%8F;Survey+Corps+of+AI+%E2%9A%94%EF%B8%8F+Turning+Data+into+Intelligence+%F0%9F%92%A1" alt="Typing SVG"/>
+</div>
 
-<a href="https://www.github.com/Krish-Ramoliya" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/Krish-Ramoliya?logo=github&style=for-the-badge&color=64748b&labelColor=000000" /></a>
+<br/>
 
-### Skills
+<div align="center">
+  <a href="https://github.com/Krish-Ramoliya">
+    <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/krish-ramoliya-123b312a2">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:krishramoliya434@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+
+  <br/><br/>
+
+  <img src="https://komarev.com/ghpvc/?username=Krish-Ramoliya&label=Scout+Regiment+Visitors&style=for-the-badge&color=brightgreen"/>
+</div>
+
+---
+
+<!-- ✅ WALKING CHARACTER ENTRY -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Krish-Ramoliya/Krish-Ramoliya/main/assets/mikasa-walk.svg" width="100%" alt="Mikasa walking animation"/>
+</div>
+
+---
+
+## 🐍 Titan Slayer Path (Contribution Snake)
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Krish-Ramoliya/Krish-Ramoliya/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Krish-Ramoliya/Krish-Ramoliya/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Krish-Ramoliya/Krish-Ramoliya/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+---
+
+<h2 align="center">🧱 Inside The Walls (About Me)</h2>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=800&color=00FFF0&center=true&vCenter=true&repeat=true&width=1100&lines=Hi%2C+I%27m+Krish+Ramoliya;AI+%26+Machine+Learning+Engineer+%7C+IoT+Developer;Project%3A+Wildfire+Detection+using+IoT+%2B+Deep+Learning;Student+at+G+H+Patel+College+of+Engineering+%26+Technology;CGPA%3A+9.38+%7C+Preparing+for+GATE+2026;Currently+Learning%3A+MLOps+%26+Model+Deployment" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="18" width="100%">
+  <br/><br/>
+
+  <table>
+    <tr>
+      <td align="center">
+        <b style="font-size:18px;">“The world rewards those who keep moving forward, even when the path is heavy.” ⚔️</b>
+        <br/>
+        <sub><i>— Scout Regiment Mindset</i></sub>
+      </td>
+    </tr>
+  </table>
+
+  <br/>
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="18" width="100%">
+</div>
 
 
-<p align="left">
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
+<br/>
+
+<div align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="18" width="100%">
+</div>
+
+<!-- ✅ WALKING CHARACTER BETWEEN SECTIONS -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Krish-Ramoliya/Krish-Ramoliya/main/assets/mikasa-walk.svg" width="100%" alt="Mikasa walking animation"/>
+</div>
+
+---
+
+## ⚔️ Arsenal (Tech Stack)
+
+### 🧠 Core Languages
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,c,html,css" />
 </p>
 
+### 🤖 AI / Deep Learning Gear
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=tensorflow" />
+  <img src="https://raw.githubusercontent.com/valohai/ml-logos/master/keras.svg" height="48"/>
+  <img src="https://skillicons.dev/icons?i=opencv" />
+</p>
 
-### Socials
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="48"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="48"/>
+</p>
 
-<p align="left"> <a href="https://www.github.com/Krish-Ramoliya" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/ krish-ramoliya-123b312a2" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
+### ☁️ Cloud + DevOps Operations
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,git,github,linux" />
+  <img src="https://www.vectorlogo.zone/logos/ibm_cloud/ibm_cloud-icon.svg" height="48"/>
+</p>
 
-### Badges
+### 🌐 Web Development
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flask,vscode" />
+</p>
 
-<b>My GitHub Stats</b>
+### 📡 IoT / Edge Devices (Field Work)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=arduino,raspberrypi" />
+</p>
 
-<a href="http://www.github.com/Krish-Ramoliya"><img src="https://github-readme-stats.vercel.app/api?username=Krish-Ramoliya&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ef4444&icon_color=64748b&bg_color=000000&hide_border=true&show_icons=true" alt="Krish-Ramoliya's GitHub stats" /></a>
+---
 
-<a href="http://www.github.com/Krish-Ramoliya"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Krish-Ramoliya&stroke=ef4444&background=000000&ring=3382ed&fire=3382ed&currStreakNum=ef4444&currStreakLabel=3382ed&sideNums=ef4444&sideLabels=ef4444&dates=ef4444&hide_border=true" /></a>
+## 🗡️ Missions Completed (Featured Work)
+
+✅ **IoT-Driven Deep Learning System for Real-Time Wildfire Detection** 🔥🌲  
+✅ **Employee Attrition Prediction (Logistic Regression)** 📉  
+✅ **More AI deployments coming soon… 🚀**
+
+---
+
+<!-- ✅ WALKING CHARACTER BEFORE STATS -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Krish-Ramoliya/Krish-Ramoliya/main/assets/mikasa-walk.svg" width="100%" alt="Mikasa walking animation"/>
+</div>
+
+---
+
+## 📜 Scout Regiment Records (GitHub Analytics)
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Krish-Ramoliya&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FFF0&icon_color=F8D866&text_color=ffffff&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krish-Ramoliya&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FFF0&text_color=ffffff&langs_count=8"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Krish-Ramoliya&theme=radical&hide_border=true&background=0D1117"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Krish-Ramoliya&custom_title=Scout%20Regiment%20Contribution%20Map&bg_color=0D1117&color=00FFF0&line=F85D7F&point=FFFFFF&area=true&hide_border=true" />
+</div>
+
+---
+
+<div align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="18" width="100%">
+</div>
+
+## 🏅 Medals Earned (Trophies)
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Krish-Ramoliya&theme=radical&no-frame=true&no-bg=true&row=1&column=6&margin-w=15&margin-h=15"/>
+</div>
+
+<div align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="18" width="100%">
+</div>
+
+---
+
+## 🕊️ Contact (Signal Flare)
+
+<div align="center">
+
+📩 **Email:** [krishramoliya434@gmail.com](mailto:krishramoliya434@gmail.com)  
+💼 **LinkedIn:** [Krish Ramoliya](https://linkedin.com/in/krish-ramoliya-123b312a2)  
+⚔️ **GitHub:** [Krish-Ramoliya](https://github.com/Krish-Ramoliya)
+
+</div>
+
+---
+
+<!-- ✅ FINAL WALKING EXIT SCENE -->
+<div align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="18" width="100%">
+  <br/><br/>
+  <img src="https://raw.githubusercontent.com/Krish-Ramoliya/Krish-Ramoliya/main/assets/mikasa-walk.svg" width="100%" alt="Mikasa walking animation"/>
+  <br/>
+  <b>"Tatakae! Keep Moving Forward!" ⚔️</b>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=130&section=footer" width="100%"/>
+</div>
