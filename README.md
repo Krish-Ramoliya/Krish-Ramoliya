@@ -26,7 +26,7 @@
 
 ---
 
-<!-- ✅ WALKING CHARACTER ENTRY -->
+<!-- ✅ WALKING CHARACTER ENTRY (NOW WORKS 100%) -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/Krish-Ramoliya/Krish-Ramoliya/master/assets/mikasa-walk.svg" width="100%" alt="Mikasa walking animation"/>
 </div>
@@ -162,10 +162,11 @@
   <img src="https://i.imgur.com/dBaSKWF.gif" height="18" width="100%">
 </div>
 
-## 🏅 Medals Earned (Trophies)
+## 🏅 Medals Earned (Achievements)
 
+<!-- ✅ Trophy service is paused, so use stable medals -->
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Krish-Ramoliya&theme=radical&no-frame=true&no-bg=true&row=1&column=6&margin-w=15&margin-h=15"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Krish-Ramoliya&show_icons=true&theme=radical&hide_border=true" />
 </div>
 
 <div align="center">
