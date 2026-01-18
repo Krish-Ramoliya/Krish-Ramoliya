@@ -12,8 +12,8 @@
     x="0" y="30"
     width="90" height="90"
     preserveAspectRatio="xMidYMid meet"
-    href="https://raw.githubusercontent.com/Krish-Ramoliya/Krish-Ramoliya/main/assets/mikasa.gif"
-    xlink:href="https://raw.githubusercontent.com/Krish-Ramoliya/Krish-Ramoliya/main/assets/mikasa.gif">
+    href="https://raw.githubusercontent.com/Krish-Ramoliya/Krish-Ramoliya/master/assets/mikasa.gif"
+    xlink:href="https://raw.githubusercontent.com/Krish-Ramoliya/Krish-Ramoliya/master/assets/mikasa.gif">
 
     <animate attributeName="x"
              values="-120;1200"
