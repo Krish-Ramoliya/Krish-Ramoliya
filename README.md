@@ -33,50 +33,29 @@
 
 ---
 
-## 🐍 Titan Slayer Path (Contribution Snake)
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Krish-Ramoliya/Krish-Ramoliya/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Krish-Ramoliya/Krish-Ramoliya/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Krish-Ramoliya/Krish-Ramoliya/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
-
----
-
 <h2 align="center">🧱 Inside The Walls (About Me)</h2>
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=800&color=00FFF0&center=true&vCenter=true&repeat=true&width=1100&lines=Hi%2C+I%27m+Krish+Ramoliya;AI+%26+Machine+Learning+Engineer+%7C+IoT+Developer;Project%3A+Wildfire+Detection+using+IoT+%2B+Deep+Learning;Student+at+G+H+Patel+College+of+Engineering+%26+Technology;CGPA%3A+9.38+%7C+Preparing+for+GATE+2026;Currently+Learning%3A+MLOps+%26+Model+Deployment" />
 </div>
 
-<br/>
+---
 
+<!-- ✅ MIKASA MIDDLE (ABOVE MISSIONS COMPLETED) -->
 <div align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="18" width="100%">
-  <br/><br/>
-
-  <table>
-    <tr>
-      <td align="center">
-        <b style="font-size:18px;">“The world rewards those who keep moving forward, even when the path is heavy.” ⚔️</b>
-        <br/>
-        <sub><i>— Scout Regiment Mindset</i></sub>
-      </td>
-    </tr>
-  </table>
-
-  <br/>
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="18" width="100%">
+  <img src="https://raw.githubusercontent.com/Krish-Ramoliya/Krish-Ramoliya/master/assets/mikasa.gif" width="125" alt="Mikasa middle"/>
 </div>
 
 ---
 
-<!-- ✅ MIKASA ROAMING (RIGHT) -->
-<div align="right">
-  <img src="https://raw.githubusercontent.com/Krish-Ramoliya/Krish-Ramoliya/master/assets/mikasa.gif" width="120" alt="Mikasa roaming"/>
-</div>
+## 🌳 Skill Tree (Unlocked)
+
+✅ Python (Unlocked)  
+✅ ML Fundamentals (Unlocked)  
+✅ Deep Learning (Unlocked)  
+✅ Computer Vision (Unlocked)  
+🟡 MLOps (In Progress…)  
+🔒 Production-grade Deployment (Next Quest)
 
 ---
 
@@ -118,11 +97,31 @@
 
 ---
 
-## 🗡️ Missions Completed (Featured Work)
+<!-- ✅ QUOTE -->
+<div align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="18" width="100%">
+  <br/><br/>
 
-✅ **IoT-Driven Deep Learning System for Real-Time Wildfire Detection** 🔥🌲  
-✅ **Employee Attrition Prediction (Logistic Regression)** 📉  
-✅ **More AI deployments coming soon… 🚀**
+  <table>
+    <tr>
+      <td align="center">
+        <b style="font-size:18px;">“The world rewards those who keep moving forward, even when the path is heavy.” ⚔️</b>
+        <br/>
+        <sub><i>— Scout Regiment Mindset</i></sub>
+      </td>
+    </tr>
+  </table>
+
+  <br/>
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="18" width="100%">
+</div>
+
+---
+
+<!-- ✅ MIKASA LAST (ABOVE SCOUT REGIMENT RECORDS) -->
+<div align="right">
+  <img src="https://raw.githubusercontent.com/Krish-Ramoliya/Krish-Ramoliya/master/assets/mikasa.gif" width="120" alt="Mikasa last"/>
+</div>
 
 ---
 
@@ -147,6 +146,18 @@
 
 ---
 
+## 🐍 Titan Slayer Path (Contribution Snake)
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Krish-Ramoliya/Krish-Ramoliya/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Krish-Ramoliya/Krish-Ramoliya/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Krish-Ramoliya/Krish-Ramoliya/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+---
+
 <div align="center">
   <img src="https://i.imgur.com/dBaSKWF.gif" height="18" width="100%">
 </div>
@@ -154,7 +165,6 @@
 ## 🏅 Medals Earned (Trophies)
 
 > ⚠️ Trophy service is temporarily down (Vercel paused). Will restore later.
-
 
 ---
 
