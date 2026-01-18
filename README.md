@@ -28,7 +28,7 @@
 
 <!-- ✅ WALKING CHARACTER ENTRY -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Krish-Ramoliya/Krish-Ramoliya/main/assets/mikasa-walk.svg" width="100%" alt="Mikasa walking animation"/>
+  <img src="https://raw.githubusercontent.com/Krish-Ramoliya/Krish-Ramoliya/master/assets/mikasa-walk.svg" width="100%" alt="Mikasa walking animation"/>
 </div>
 
 ---
@@ -71,7 +71,6 @@
   <img src="https://i.imgur.com/dBaSKWF.gif" height="18" width="100%">
 </div>
 
-
 <br/>
 
 <div align="center">
@@ -80,7 +79,7 @@
 
 <!-- ✅ WALKING CHARACTER BETWEEN SECTIONS -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Krish-Ramoliya/Krish-Ramoliya/main/assets/mikasa-walk.svg" width="100%" alt="Mikasa walking animation"/>
+  <img src="https://raw.githubusercontent.com/Krish-Ramoliya/Krish-Ramoliya/master/assets/mikasa-walk.svg" width="100%" alt="Mikasa walking animation"/>
 </div>
 
 ---
@@ -133,7 +132,7 @@
 
 <!-- ✅ WALKING CHARACTER BEFORE STATS -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Krish-Ramoliya/Krish-Ramoliya/main/assets/mikasa-walk.svg" width="100%" alt="Mikasa walking animation"/>
+  <img src="https://raw.githubusercontent.com/Krish-Ramoliya/Krish-Ramoliya/master/assets/mikasa-walk.svg" width="100%" alt="Mikasa walking animation"/>
 </div>
 
 ---
@@ -191,7 +190,7 @@
 <div align="center">
   <img src="https://i.imgur.com/dBaSKWF.gif" height="18" width="100%">
   <br/><br/>
-  <img src="https://raw.githubusercontent.com/Krish-Ramoliya/Krish-Ramoliya/main/assets/mikasa-walk.svg" width="100%" alt="Mikasa walking animation"/>
+  <img src="https://raw.githubusercontent.com/Krish-Ramoliya/Krish-Ramoliya/master/assets/mikasa-walk.svg" width="100%" alt="Mikasa walking animation"/>
   <br/>
   <b>"Tatakae! Keep Moving Forward!" ⚔️</b>
 </div>
