@@ -26,9 +26,9 @@
 
 ---
 
-<!-- ✅ WALKING CHARACTER ENTRY (NOW WORKS 100%) -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Krish-Ramoliya/Krish-Ramoliya/master/assets/mikasa-walk.svg" width="100%" alt="Mikasa walking animation"/>
+<!-- ✅ MIKASA ENTRY (CINEMATIC) -->
+<div align="left">
+  <img src="https://raw.githubusercontent.com/Krish-Ramoliya/Krish-Ramoliya/master/assets/mikasa.gif" width="130" alt="Mikasa"/>
 </div>
 
 ---
@@ -71,15 +71,11 @@
   <img src="https://i.imgur.com/dBaSKWF.gif" height="18" width="100%">
 </div>
 
-<br/>
+---
 
-<div align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="18" width="100%">
-</div>
-
-<!-- ✅ WALKING CHARACTER BETWEEN SECTIONS -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Krish-Ramoliya/Krish-Ramoliya/master/assets/mikasa-walk.svg" width="100%" alt="Mikasa walking animation"/>
+<!-- ✅ MIKASA ROAMING (RIGHT) -->
+<div align="right">
+  <img src="https://raw.githubusercontent.com/Krish-Ramoliya/Krish-Ramoliya/master/assets/mikasa.gif" width="120" alt="Mikasa roaming"/>
 </div>
 
 ---
@@ -130,13 +126,6 @@
 
 ---
 
-<!-- ✅ WALKING CHARACTER BEFORE STATS -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Krish-Ramoliya/Krish-Ramoliya/master/assets/mikasa-walk.svg" width="100%" alt="Mikasa walking animation"/>
-</div>
-
----
-
 ## 📜 Scout Regiment Records (GitHub Analytics)
 
 <div align="center">
@@ -162,16 +151,10 @@
   <img src="https://i.imgur.com/dBaSKWF.gif" height="18" width="100%">
 </div>
 
-## 🏅 Medals Earned (Achievements)
+## 🏅 Medals Earned (Trophies)
 
-<!-- ✅ Trophy service is paused, so use stable medals -->
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Krish-Ramoliya&show_icons=true&theme=radical&hide_border=true" />
-</div>
+> ⚠️ Trophy service is temporarily down (Vercel paused). Will restore later.
 
-<div align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="18" width="100%">
-</div>
 
 ---
 
@@ -187,11 +170,15 @@
 
 ---
 
-<!-- ✅ FINAL WALKING EXIT SCENE -->
+<!-- ✅ FINAL SCENE -->
 <div align="center">
   <img src="https://i.imgur.com/dBaSKWF.gif" height="18" width="100%">
   <br/><br/>
-  <img src="https://raw.githubusercontent.com/Krish-Ramoliya/Krish-Ramoliya/master/assets/mikasa-walk.svg" width="100%" alt="Mikasa walking animation"/>
+
+  <div align="center">
+    <img src="https://raw.githubusercontent.com/Krish-Ramoliya/Krish-Ramoliya/master/assets/mikasa.gif" width="140" alt="Mikasa Final"/>
+  </div>
+
   <br/>
   <b>"Tatakae! Keep Moving Forward!" ⚔️</b>
 </div>
