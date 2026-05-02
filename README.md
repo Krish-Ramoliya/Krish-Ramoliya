@@ -36,7 +36,7 @@
 <h2 align="center">🧱 Inside The Walls (About Me)</h2>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=800&color=00FFF0&center=true&vCenter=true&repeat=true&width=1100&lines=Hi%2C+I%27m+Krish+Ramoliya;AI+%26+Machine+Learning+Engineer+%7C+IoT+Developer;Project%3A+Wildfire+Detection+using+IoT+%2B+Deep+Learning;Student+at+G+H+Patel+College+of+Engineering+%26+Technology;CGPA%3A+9.38+%7C+Preparing+for+GATE+2026;Currently+Learning%3A+MLOps+%26+Model+Deployment" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=800&color=00FFF0&center=true&vCenter=true&repeat=true&width=1100&lines=Hi%2C+I%27m+Krish+Ramoliya;AI+%26+Machine+Learning+Engineer+%7C+IoT+Developer;Project%3A+Wildfire+Detection+using+IoT+%2B+Deep+Learning;Student+at+G+H+Patel+College+of+Engineering+%26+Technology;CGPA%3A+9.38+%7C+Preparing+for+GATE+2027;Currently+Learning%3A+MLOps+%26+Model+Deployment" />
 </div>
 
 ---
